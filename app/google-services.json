@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447620702189",
+    "project_id": "hidden-e5471",
+    "storage_bucket": "hidden-e5471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447620702189:android:50b265e9979bba444191e4",
+        "android_client_info": {
+          "package_name": "com.example.hidden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447620702189-32jospaoiso7cajdva96mf8h22q9cobc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOIO4QKAUYQy_4JzkTTGi9xBRL5Yysab4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447620702189-32jospaoiso7cajdva96mf8h22q9cobc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
